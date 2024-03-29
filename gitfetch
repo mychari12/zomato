@@ -1,2 +1,6 @@
 this is git fetch file
+<<<<<<< HEAD
 and this is the new fetch fil:e
+=======
+and this have some content
+>>>>>>> 7587541f06808d1148ea1a878c876b4dfa531b6e
